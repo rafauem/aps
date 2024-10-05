@@ -1,20 +1,20 @@
 # Apostilas
 
 # 6 A
-[Aluno](https://bibliotecadeconteudos.plurall.net/book/pdf/b7d6d891-ce76-4901-86ee-25b8913d56fb)  
-[Professor](https://bibliotecadeconteudos.plurall.net/book/pdf/3f88ad69-425a-4f4f-94bb-abcea2dd9078)
+[Aluno](https://bibliotecadeconteudos.plurall.net/#book/pdf/812ac694-9622-4a96-abea-642c6c74679f)  
+[Professor](https://bibliotecadeconteudos.plurall.net/#book/pdf/8b9abc2d-2f53-4619-b6bc-825485c39e04)
 
 
 
 # 7 A
-[Aluno](https://bibliotecadeconteudos.plurall.net/book/pdf/6a321caa-1d85-4dc2-8041-10fafbf75105)  
-[Professor](https://bibliotecadeconteudos.plurall.net/book/pdf/072fc78d-c753-49fc-aa9a-e4fff6b18280)
+[Aluno](https://bibliotecadeconteudos.plurall.net/#book/pdf/79d575cc-b912-4902-bb9c-2750833c0379)  
+[Professor](https://bibliotecadeconteudos.plurall.net/#book/pdf/36106a28-b4d6-4407-b415-b1af18114f99)
 
 
 
 # 8 A
-[Aluno](https://bibliotecadeconteudos.plurall.net/book/pdf/6aecf45f-6772-4347-b80c-b4a86223b0d5)  
-[Professor](https://bibliotecadeconteudos.plurall.net/book/pdf/4b2709c9-03b8-488d-9361-58ac7fe3f6ad)
+[Aluno](https://bibliotecadeconteudos.plurall.net/#book/pdf/b5eaceb9-5f0e-4cc0-9ac2-c74a4cb11585) 
+[Professor](https://bibliotecadeconteudos.plurall.net/#book/pdf/94e63f2c-ea99-499e-a764-b69294d76661)
 
 # 9A 
 [Aluno](https://bibliotecadeconteudos.plurall.net/book/pdf/292ce42d-489b-4d1b-b2de-68b0d30d30c0)  
